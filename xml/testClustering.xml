@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<KnowledgeGraph>
+
+<KnowledgeObjects>
+<kernel.knowledgeGraph.nodes.superModel.resources.HumanAgent ID="1" label="a1"/>
+<kernel.knowledgeGraph.nodes.superModel.resources.HumanAgent ID="2" label="a2"/>
+<kernel.knowledgeGraph.nodes.superModel.resources.HumanAgent ID="3" label="a3"/>
+<kernel.knowledgeGraph.nodes.superModel.resources.HumanAgent ID="4" label="a4"/>
+<kernel.knowledgeGraph.nodes.superModel.resources.HumanAgent ID="5" label="a5"/>
+<kernel.knowledgeGraph.nodes.superModel.resources.HumanAgent ID="6" label="a6"/>
+<kernel.knowledgeGraph.nodes.superModel.resources.HumanAgent ID="7" label="a7"/>
+<kernel.knowledgeGraph.nodes.superModel.resources.HumanAgent ID="8" label="a8"/>
+<kernel.knowledgeGraph.nodes.superModel.resources.HumanAgent ID="9" label="a9"/>
+<kernel.knowledgeGraph.nodes.superModel.resources.HumanAgent ID="10" label="a10"/>
+</KnowledgeObjects>
+
+<Viewpoints>
+<kernel.knowledgeGraph.nodes.superModel.viewpoints.ConnectedViewpoint emitterID="1" o1ID="1" o2ID="2"/>
+<kernel.knowledgeGraph.nodes.superModel.viewpoints.ConnectedViewpoint emitterID="1" o1ID="2" o2ID="3"/>
+<kernel.knowledgeGraph.nodes.superModel.viewpoints.ConnectedViewpoint emitterID="1" o1ID="2" o2ID="10"/>
+<kernel.knowledgeGraph.nodes.superModel.viewpoints.ConnectedViewpoint emitterID="1" o1ID="10" o2ID="4"/>
+<kernel.knowledgeGraph.nodes.superModel.viewpoints.ConnectedViewpoint emitterID="1" o1ID="4" o2ID="5"/>
+<kernel.knowledgeGraph.nodes.superModel.viewpoints.ConnectedViewpoint emitterID="1" o1ID="4" o2ID="6"/>
+<kernel.knowledgeGraph.nodes.superModel.viewpoints.ConnectedViewpoint emitterID="1" o1ID="5" o2ID="6"/>
+<kernel.knowledgeGraph.nodes.superModel.viewpoints.ConnectedViewpoint emitterID="1" o1ID="4" o2ID="8"/>
+<kernel.knowledgeGraph.nodes.superModel.viewpoints.ConnectedViewpoint emitterID="1" o1ID="8" o2ID="7"/>
+<kernel.knowledgeGraph.nodes.superModel.viewpoints.ConnectedViewpoint emitterID="1" o1ID="8" o2ID="9"/>
+<kernel.knowledgeGraph.nodes.superModel.viewpoints.ConnectedViewpoint emitterID="1" o1ID="7" o2ID="9"/>
+<kernel.knowledgeGraph.nodes.superModel.viewpoints.ConnectedViewpoint emitterID="1" o1ID="3" o2ID="10"/>
+</Viewpoints>
+
+</KnowledgeGraph>
